@@ -1,4 +1,4 @@
-# German Traffic Sign Recognition with Convolutional Neural Networks
+# Traffic Sign Recognition with Convolutional Neural Networks
 
 This repository contains code for a Convolutional Neural Network (CNN) designed to recognize and classify German traffic signs using the [GTSRB dataset](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
 
