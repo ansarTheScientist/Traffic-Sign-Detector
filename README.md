@@ -21,16 +21,6 @@ This code implements a CNN using TensorFlow/Keras to classify 43 different types
 3. Execute the code in a Jupyter Notebook or Python environment.
 4. Explore the training process, accuracy, and model evaluation metrics.
 
-## Requirements
-
-- Python 3.x
-- TensorFlow 2.x
-- Keras
-- Matplotlib
-- Pandas
-- NumPy
-- OpenCV
-
 ## Tags
 
 - Traffic Sign Recognition
